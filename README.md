@@ -1,2 +1,1 @@
-# quantum-eigen
-something quantum quantum
+# Quantum Eigenvalue Solver
